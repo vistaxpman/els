@@ -3,6 +3,6 @@
 echo 'Demo CI';
 
 // error
-echo 'Testing';
+echo 'Testing
 
 ?>
