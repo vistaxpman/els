@@ -1,1 +1,1 @@
-Demo CI
+Demo Continuous integration
