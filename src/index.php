@@ -2,7 +2,7 @@
 // good
 echo 'Demo CI';
 
-// erro
-echo 'aaa
+// error
+echo 'Testing';
 
 ?>
